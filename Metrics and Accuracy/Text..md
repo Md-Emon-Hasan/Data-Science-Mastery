@@ -87,4 +87,8 @@
 
 - **Imbalanced Data**: Use precision, recall, F1, or ROC-AUC instead of accuracy.
 - **Overfitting**: Use regularization, cross-validation, or simpler models.
+<<<<<<< HEAD
 - **Underfitting**: Use more complex models or ensure data has relevant features.
+=======
+- **Underfitting**: Use more complex models or ensure data has relevant features.
+>>>>>>> f73fc3b6d35c1cf4b3dd0254c6aa7a002dba4848
